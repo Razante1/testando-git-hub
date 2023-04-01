@@ -1,0 +1,10 @@
+.caixa {
+    width: 30%;
+    background-color: green;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
